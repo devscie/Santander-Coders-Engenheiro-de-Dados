@@ -1,0 +1,4 @@
+Escrita de arquivo utilizando Python
+
+By Python.
+Domingo, 18 de Setembro de 2022.
